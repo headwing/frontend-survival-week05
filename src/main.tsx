@@ -4,6 +4,7 @@ import App from './App';
 
 function main() {
   const container = document.getElementById('root');
+
   if (!container) {
     return;
   }
